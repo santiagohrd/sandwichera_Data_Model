@@ -1,11 +1,11 @@
 # sandwichera_Data_Model
 Case Study Problem
-I analized the business of a sandwich shop named "Sandwicheria". This case study is a project of my own in my process to improve my data modeling skills.
+I analyzed the business of a sandwich shop named Sandwicheria. This case study is a project I am working on to improve my data modeling skills.
 
 -Prepare software for online ordering from Sandwicheria shop. The shop has multiple locations and food can be ordered from any location.
 -Customers can order a variety of menu items (soups, salads, sandwiches, and beverage). Each menu item has a list price that can vary depending on whether there is a discount.
--Some items are sold as is, such beverages. Other items are customizable, such as sandwiches. Each sandwich as a choice of bread, cheese, and meat.
--An order has a means of delivery. For example, a customer might pick up and order at a store or may prefer to have it delivered to an address.
+Some items are sold as is, such as beverages. Other items are customizable, such as sandwiches. Each sandwich has a choice of bread, cheese, and meat.
+An order has a means of delivery. For example, a customer might pick up the order at a store or prefer to have it delivered to an address.
 -Since this is a online system, the shop only support credit card payments. In the future it may include other methods.
 -The software should allow users to create an account and register their data so that it is easier to submit an order. However, it should also support customers that lack and account and just want to submit an order and be done with it.
 
